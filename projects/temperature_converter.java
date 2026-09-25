@@ -15,6 +15,7 @@ public class temperature_converter {
         System.out.print("Choose to which unti convert to (C or F): ");
         unit = scanner.next().toUpperCase();
 
+        //using ternary operators, formula is taken from Google
         newTemp = (unit.equals("C")) ? (temperature - 32) * 5/9 : (temperature * 9/5) + 32;
 
         System.out.printf("%.1f°%s", newTemp, unit);
