@@ -1,0 +1,18 @@
+Car Model: BMW
+Car Color: Metallic Yellow
+Car Type: Gas
+Car Drivetrain: AWD
+Car ID: G1
++++++++++++++++++++++++++++++
+Car Model: BMW
+Car Color: Metallic Yellow
+Car Type: Gas
+Car Drivetrain: AWD
+Car ID: D294
++++++++++++++++++++++++++++++
+Car Model: Malibu 2 XL
+Car Color: Star Black
+Car Type: Petroleum
+Car Drivetrain: FWD
+Car ID: G704
++++++++++++++++++++++++++++++
