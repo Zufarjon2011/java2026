@@ -11,7 +11,7 @@ public class OOP17_arraylists {
         ArrayList<String> list = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter # of vaginas you would like to fuck or lick: ");
+        System.out.print("Enter # of foods you would like: ");
         int numOfFoods = scanner.nextInt();
         scanner.nextLine();
 
