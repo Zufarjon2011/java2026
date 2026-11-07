@@ -1,0 +1,12 @@
+NAME:zufar
+LOGIN:zufar1
+PASS:zua
+-----------------
+NAME:Zufarjon Xojiakbarov
+LOGIN:zufarjon1
+PASS:zua
+-----------------
+NAME:Testerov Test Testovich
+LOGIN:Test12343
+PASS:zua
+-----------------
